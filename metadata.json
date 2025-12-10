@@ -1,0 +1,5 @@
+{
+  "name": "CryptoNetworkSim",
+  "description": "A React modernization of a blockchain simulation interface. This is a secure, educational UI demonstration that simulates network traffic and terminal logs without requesting sensitive data.",
+  "requestFramePermissions": []
+}
